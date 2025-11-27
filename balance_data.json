@@ -58,5 +58,15 @@
     "quota": 975.0,
     "used": 0.0,
     "timestamp": 1764246099.8065753
+  },
+  "SkyhaoLi_cookies": {
+    "quota": 227.24,
+    "used": 47.76,
+    "timestamp": 1764248670.79953
+  },
+  "SkyhaoLi_email": {
+    "quota": 227.24,
+    "used": 47.76,
+    "timestamp": 1764248695.0827255
   }
 }
